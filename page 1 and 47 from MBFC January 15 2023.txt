@@ -1,0 +1,200 @@
+100 Mile Free Press 	Left-Center 	High 	Canada 	High Credibility 	Newspaper 	Minimal Traffic 	
+100% Fed up 	Questionable Sources 	Low 	United States 	Low Credibility 	Website Only 	Medium Traffic 	55
+KOLN\KGIN - Lincoln News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KNPL - North Platte News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+WBNS-TV (10tv.com) 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+WXIA - 11alive.com 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	64
+12minutos.com 	Questionable Sources 	Low 	Unknown or Invalid Region 	Low Credibility 	Website Only 	Minimal Traffic 	32
+12 News KPNX 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	55
+KNAZ - Flagstaff News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KBMT - 12NewsNow 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	54
+WTVG - 13 Action News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WVEC - 13NewsNow.com 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	56
+WHAM - Rochester News 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WMAZ - Macon News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WFIE - Evansville News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+OneEighty 	Least Biased 	Mixed 	United States 	Medium Credibility 	Website Only 	No Data 	15
+1945 - 19fortyfive 	Right-Center 	Mostly Factual 	United States 	High Credibility 	Website Only 	Medium Traffic 	
+The 19th News 	Left 	High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	
+2020 Conservative 	Questionable Sources 	Very Low 	Unknown or Invalid Region 	Low Credibility 	Website Only 	Minimal Traffic 	
+2020ElectionCenter.com 	Conspiracy-Pseudoscience 	Very Low 	United States 	Low Credibility 	Website Only 	High Traffic 	
+21st Century Wire 	Conspiracy-Pseudoscience 	Mixed 	United States 	Low Credibility 		Medium Traffic 	64
+24/7 Wall St 	Least Biased 	High 	United States 	High Credibility 	Website Only 	Medium Traffic 	
+24jours.com 	Questionable Sources 	Low 	Cameroon 	Low Credibility 	Website Only 	Minimal Traffic 	
+24ur.com 	Least Biased 	Mostly Factual 	Slovenia 	High Credibility 	Website Only 	High Traffic 	59
+WEEK - Peoria News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+2ndVote 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	39
+369 News 	Conspiracy-Pseudoscience 	Mixed 	Unknown or Invalid Region 	Low Credibility 	Website Only 	Minimal Traffic 	34
+38 North 	Least Biased 	High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	70
+KMTV - Omaha News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KHBS/KHOG - Fort Smith News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+4Chan 	Questionable Sources 	Very Low 	United States 	Low Credibility 	Website Only 	High Traffic 	
+KFSM Fort Smith-Fayetteville News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+604 Now 	Left-Center 	Mostly Factual 	Canada 	High Credibility 	Newspaper 	Medium Traffic 	46
+WPVI - Philadelphia - Action News 	Left-Center 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+79Days.News 	Conspiracy-Pseudoscience 	Very Low 	United States 	Low Credibility 	Website Only 	High Traffic 	20
+7NEWS 	Right-Center 	Mixed 	Australia 	Medium Credibility 	TV Station 	High Traffic 	66
+KLAS - Las Vegas News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	0
+911Truth.org 	Conspiracy-Pseudoscience 	Low 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	73
+The Drive 92.9 - Tulsa 	Least Biased 	High 	United States 	High Credibility 	Radio Station 	Minimal Traffic 	
+972 Magazine 	Left-Center 	High 	Israel 	High Credibility 	Website Only 	Minimal Traffic 	67
+9News - KUSA 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	67
+9 News (Australia) 	Right-Center 	High 	Australia 	High Credibility 	TV Station 	High Traffic 	79
+America First Action SuperPAC 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	0
+Anadolu Agency 	Right 	Mixed 	Turkey 	Medium Credibility 	News Agency 	High Traffic 	84
+American association for the advancement of science. 	Pro-Science 	Very High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	87
+Australian Associated Press (AAP) 	Least Biased 	High 	Australia 	High Credibility 	News Agency 	Medium Traffic 	
+American Academy of Pediatrics 	Pro-Science 	Very High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	86
+Association of American Physicians and Surgeons (AAPS) 	Questionable Sources 	Low 	United States 	Low Credibility 	Organization/Foundation 	Minimal Traffic 	64
+Asharq Al-Awsat 	Right-Center 	Mixed 	United Kingdom 	Medium Credibility 	Newspaper 	Medium Traffic 	0
+Abbotsford News 	Left-Center 	High 	Canada 	High Credibility 	Newspaper 	Medium Traffic 	
+ABC (Spain) 	Right-Center 	High 	Spain 	High Credibility 	Newspaper 	High Traffic 	80
+KXTV - Sacramento News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+ABC11 Eyewitness News 	Left-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	74
+ABC12/WJRT-TV 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	57
+KTRK - ABC13 - Houston 	Left-Center 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+KNXV - Phoenix News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+KMIZ - Columbia News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KQFX - Columbia News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WHTM - Harrisburg News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KFSN - ABC30 Fresno News 	Left-Center 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+WBMA - Birmingham News 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KTVX - Salt Lake City News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WXLV - Winston-Salem 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	0
+WSYX - ABC6onyourside.com 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KABC - Los Angeles News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+KVIH - Clovis News 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KVII - Amarillo News 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+ABC7chicago.com 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	78
+KGO - ABC7 News 	Left-Center 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+ABC7 New York 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	87
+ABC News 	Left-Center 	High 	United States 	High Credibility 	TV Station 	High Traffic 	97
+WCIV - Charleston News 	Right-Center 	High 	United States 	High Credibility 		Medium Traffic 	
+KDNL - St. Louis News 	Right-Center 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+Abort73 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	0
+Above the Law 	Left-Center 	High 	United States 	High Credibility 	Website Only 	Medium Traffic 	81
+Above Top Secret 	Conspiracy-Pseudoscience 	Low 	United States 	Low Credibility 	Website Only 	Medium Traffic 	64
+Albuquerque Journal 	Right-Center 	High 	United States 	High Credibility 	Newspaper 	Medium Traffic 	81
+Against Crony Capitalism 	Right 	Mostly Factual 	United States 	Medium Credibility 	Website Only 	Minimal Traffic 	30
+Accuracy in Academia (AIA) 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	53
+A Call for an Uprising 	Conspiracy-Pseudoscience 	Low 	United States 	Low Credibility 	Website Only 	Medium Traffic 	
+Accountable.US 	Left 	Mostly Factual 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	
+AceShowbiz (ASB) 	Left-Center 	Mixed 	Indonesia 	Medium Credibility 	Website Only 	Medium Traffic 	66
+American Center for Law & Justice (ACLJ) 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Medium Traffic 	76
+ACLU 	Left-Center 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Medium Traffic 	92
+American College of Pediatricians 	Questionable Sources 	Low 	United States 	Low Credibility 	Organization/Foundation 	Minimal Traffic 	56
+American Council on Science and Health (ACSH) 	Right-Center 	High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	62
+Act.TV 	Left 	Mostly Factual 	United States 	Medium Credibility 	Website Only 	Minimal Traffic 	35
+Acting Man 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	59
+Action News 3 	Questionable Sources 	Very Low 	Unknown or Invalid Region 	Low Credibility 	Website Only 	Minimal Traffic 	22
+WMC - Memphis News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+ActionNewsJax.com 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	56
+KHSL - Chico News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KNVN - Redding News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+Acton Institute 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	
+Algemeen Dagblad 	Least Biased 	High 	Netherlands 	High Credibility 	Newspaper 	High Traffic 	71
+Anxiety and Depression Association of America (ADAA) 	Pro-Science 	Very High 	United States 	High Credibility 	Organization/Foundation 	Medium Traffic 	82
+Ada Derana 	Left-Center 	Mixed 	Sri Lanka 	Medium Credibility 	Website Only 	Medium Traffic 	
+Adams County Times 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	
+Ada Reporter 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	
+ADDitude Magazine
+Government Accountability Institute 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	52
+The Greanville Post 	Conspiracy-Pseudoscience 	Mixed 	United States 	Low Credibility 		No Data 	50
+International Business Times 	Left-Center 	Mixed 	United States 	Medium Credibility 	Website Only 	Medium Traffic 	91
+International Center for Research on Women 	Left-Center 	High 	United States 	High Credibility 		No Data 	64
+Irish Independent 	Right-Center 	Mostly Factual 	Ireland 	High Credibility 		High Traffic 	91
+The Independent Institute 	Right-Center 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	74
+InfoScum 	Questionable Sources 	Mixed 	Canada 	Low Credibility 		No Data 	9
+Infowars 	Conspiracy-Pseudoscience 	Very Low 	United States 	Low Credibility 	Radio Station 	High Traffic 	90
+Intrepid Report 	Left 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	42
+Japan Today 	Left-Center 	High 	Japan 	High Credibility 		Medium Traffic 	82
+Journal Gazette 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	63
+Just the Facts 	Questionable Sources 	Mixed 	United States 	Low Credibility 		No Data 	34
+Knight Foundation 	Left-Center 	High 	United States 	High Credibility 		Minimal Traffic 	77
+Lansing State Journal 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	75
+Lawfare Blog 	Least Biased 	Very High 	United States 	High Credibility 		Medium Traffic 	75
+Le Gorafi 	Satire 		France 	N/A 		Medium Traffic 	68
+London Free Press 	Right-Center 	Mostly Factual 	Canada 	High Credibility 		Medium Traffic 	71
+Lifezette 	Right 	Mixed 	United States 	Medium Credibility 		Medium Traffic 	67
+Laredo Morning Times 	Right-Center 	High 	United States 	High Credibility 		Medium Traffic 	70
+Lucianne.com 	Questionable Sources 	Mixed 	United States 	Low Credibility 		Medium Traffic 	66
+Mackinac Center for Public Policy 	Right-Center 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	65
+The Macon Telegraph 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	79
+Manila Times 	Right-Center 	Mixed 	Philippines 	Medium Credibility 		Medium Traffic 	78
+Middle East Forum 	Questionable Sources 	Low 	United States 	Low Credibility 		Minimal Traffic 	71
+Middle East Media Research Institute (Memri) 	Questionable Sources 	Mixed 	United States 	Low Credibility 		Minimal Traffic 	79
+Mother Nature Network 	Left-Center 	High 	United States 	High Credibility 		Minimal Traffic 	90
+The Morning Star 	Left 	Mostly Factual 	United Kingdom 	High Credibility 		Medium Traffic 	67
+NASA 	Pro-Science 	Very High 	United States 	High Credibility 		High Traffic 	97
+National Review 	Right 	Mostly Factual 	United States 	High Credibility 	Magazine 	High Traffic 	93
+Nation of Change 	Left 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	63
+National Conference of State Legislatures (NCSL) 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	80
+New Europe 	Left-Center 	High 	Belgium 	High Credibility 		Minimal Traffic 	71
+Newsbud 	Conspiracy-Pseudoscience 	Mixed 	Unknown or Invalid Region 	Low Credibility 		No Data 	54
+News Hounds 	Left 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	67
+Raleigh News & Observer 	Left-Center 	High 	United States 	High Credibility 		Medium Traffic 	84
+NextGOV 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	71
+NRA - Institute for Legislative Action 	Right 	Mixed 	United States 	Medium Credibility 		Medium Traffic 	80
+New York Times 	Left-Center 	High 	United States 	High Credibility 	Newspaper 	High Traffic 	98
+New Zealand Herald 	Least Biased 	High 	New Zealand 	High Credibility 		High Traffic 	95
+Oath Keepers 	Questionable Sources 	Low 	United States 	Low Credibility 		Minimal Traffic 	65
+The Oklahoman 	Right-Center 	High 	United States 	High Credibility 		Medium Traffic 	67
+openDemocracy 	Left-Center 	High 	United States 	High Credibility 		Medium Traffic 	83
+Open Doors 	Right-Center 	Mixed 		Medium Credibility 		Minimal Traffic 	74
+Orlando Sentinel 	Left-Center 	High 	United States 	High Credibility 		High Traffic 	91
+Oyez Project 	Least Biased 	Very High 	United States 	High Credibility 		Medium Traffic 	76
+Pacific Pundit 	Questionable Sources 	Low 	United States 	Low Credibility 		Minimal Traffic 	34
+Pacific Research Institute 	Right-Center 	Mostly Factual 	United States 	Medium Credibility 		No Data 	58
+Patriot News Alerts 	Right 	Mixed 	United States 	Medium Credibility 		Medium Traffic 	28
+The Press-Enterprise 	Right-Center 	High 	United States 	High Credibility 		Medium Traffic 	86
+Peacock Panache 	Left 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	36
+PinkNews 	Left 	High 	United Kingdom 	High Credibility 		Medium Traffic 	79
+Pluralist 	Right 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	34
+Politicalite 	Right 	Mixed 	United Kingdom 	Medium Credibility 		Minimal Traffic 	36
+Polygraph.info 	Least Biased 	High 	United States 	High Credibility 	Website Only 	Minimal Traffic 	46
+Popular Science 	Pro-Science 	High 	United States 	High Credibility 		Medium Traffic 	91
+Popular Mechanics 	Pro-Science 	High 	United States 	High Credibility 		High Traffic 	90
+PragerU 	Questionable Sources 	Low 	United States 	Low Credibility 	Website Only 	Medium Traffic 	73
+Press Progress 	Left 	High 	Canada 	High Credibility 		Minimal Traffic 	39
+Prison Planet 	Conspiracy-Pseudoscience 	Very Low 	United States 	Low Credibility 		Medium Traffic 	83
+Private Eye 	Left-Center 	Mixed 	United Kingdom 	Medium Credibility 		Minimal Traffic 	79
+Prophecy News Watch 	Conspiracy-Pseudoscience 	Low 	United States 	Low Credibility 		Medium Traffic 	56
+Prospect Magazine 	Left-Center 	High 	United Kingdom 	High Credibility 		Medium Traffic 	74
+Public Policy Polling 	Least Biased 	High 	United States 	High Credibility 		Minimal Traffic 	69
+Puppet String News 	Questionable Sources 	Low 	United States 	Low Credibility 		Minimal Traffic 	35
+The Frontier 	Left-Center 	High 	United States 	High Credibility 		Minimal Traffic 	45
+Real Clear Defense 	Right-Center 	Mostly Factual 	United States 	High Credibility 		Medium Traffic 	57
+Real Clear Investigations 	Right-Center 	Mostly Factual 	United States 	High Credibility 		Medium Traffic 	50
+Real Clear Policy 	Right-Center 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	61
+Red Pepper 	Left 	High 	United Kingdom 	High Credibility 		Minimal Traffic 	69
+Reed Cooper News 	Questionable Sources 	Low 	United States 	Low Credibility 		No Data 	20
+Renew America 	Questionable Sources 	Low 	United States 	Low Credibility 		Minimal Traffic 	62
+Republic Report 	Left 	High 	United States 	High Credibility 		No Data 	59
+Natural Resource Governance Institute 	Left-Center 	High 	United States 	High Credibility 		No Data 	57
+Reveal - Center for Investigative Reporting 	Left-Center 	High 	United States 	High Credibility 		Minimal Traffic 	74
+Reno Gazette Journal 	Left-Center 	High 	United States 	High Credibility 		Medium Traffic 	81
+Sick Chirpse 	Questionable Sources 	Very Low 		Low Credibility 		Medium Traffic 	71
+Salt Lake Tribune 	Left-Center 	High 	United States 	High Credibility 		High Traffic 	85
+Source Politics 	Left 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	22
+SourceWatch 	Left 	Mostly Factual 	United States 	Medium Credibility 		Minimal Traffic 	71
+Space.com 	Pro-Science 	High 	United States 	High Credibility 		High Traffic 	94
+Spiegel Online (Der Spiegel) 	Left-Center 	High 	Germany 	High Credibility 	Magazine 	High Traffic 	96
+StandPoint 	Right 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	60
+Fort Worth Star-Telegram 	Right-Center 	High 	United States 	High Credibility 		Medium Traffic 	86
+Strategic Culture Foundation 	Questionable Sources 	Very Low 	Russia 	Low Credibility 	Website Only 	Medium Traffic 	69
+Tasnim News Agency 	Questionable Sources 	Mixed 	Iran 	Low Credibility 		High Traffic 	90
+Tea Party Patriots 	Questionable Sources 	Mixed 	United States 	Low Credibility 		Minimal Traffic 	70
+MIT Technology Review 	Pro-Science 	Very High 	United States 	High Credibility 	Magazine 	Medium Traffic 	93
+Atlantic 	Left-Center 	High 	United States 	High Credibility 	Magazine 	High Traffic 	96
+The Blaze 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	High Traffic 	88
+The Cipher Brief 	Least Biased 	High 	United States 	High Credibility 	Website Only 	Minimal Traffic 	55
+The College Fix 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Medium Traffic 	66
+The Common Sense Show 	Conspiracy-Pseudoscience 	Very Low 	United States 	Low Credibility 		Medium Traffic 	58
+The Conservative Nut 	Right 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	6
+The Daily Mash 	Satire 		United Kingdom 	N/A 		Medium Traffic 	77
+The Daily Sheeple 	Conspiracy-Pseudoscience 	Low 	Unknown or Invalid Region 	Low Credibility 		No Data 	69
+The Dodo 	Left 	Mixed 	United States 	Medium Credibility 		High Traffic 	77
+The Fiscal Times 	Right-Center 	High 	United States 	High Credibility 		Minimal Traffic 	71
+The Guardian 	Left-Center 	Mixed 	United Kingdom 	Medium Credibility 	Newspaper 	High Traffic 	98
+The Liberty Eagle 	Questionable Sources 	Mixed 		Low Credibility 		No Data 	29
+The London Economic

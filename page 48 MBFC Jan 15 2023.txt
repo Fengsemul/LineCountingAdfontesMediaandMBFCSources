@@ -1,0 +1,69 @@
+The Mary Sue 	Left 	Mixed 	United States 	Medium Credibility 		Medium Traffic 	83
+The National (UAE) 	Questionable Sources 	Mixed 	United Arab Emirates 	Low Credibility 		Minimal Traffic 	86
+The New Civil Rights Movement 	Left 	Mixed 	United States 	Medium Credibility 		Medium Traffic 	66
+The Post & Email 	Right 	Mixed 	United States 	Medium Credibility 		Minimal Traffic 	56
+The Religion of Peace 	Questionable Sources 	Low 		Low Credibility 		Minimal Traffic 	77
+The Times UK and Sunday Times 	Right-Center 	High 	United Kingdom 	High Credibility 	Newspaper 	High Traffic 	97
+Times-News (Pennsylvania) 	Right-Center 	High 	United States 	High Credibility 	Newspaper 	Medium Traffic 	60
+Red River Valley News 	Least Biased 	High 	United States 	High Credibility 		Medium Traffic 	66
+Christian Broadcasting Network (CBN) 	Conspiracy-Pseudoscience 	Mixed 	United States 	Low Credibility 	TV Station 	High Traffic 	76
+WXII -Winston-Salem News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WXOW - La Crosse News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WXYZ - Detroit News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+Wyandotte Times 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	
+Gazeta Wyborcza 	Left-Center 	High 	Poland 	High Credibility 	Newspaper 	High Traffic 	
+WYFF - Greenville News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	High Traffic 	
+WYMT - Eastern Kentucky News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KCWY - Casper News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+KGWN - Wyoming News Now 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+WYFX - Youngstown News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+WYTV - Youngtown Ohio News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+WZMQ - Marquette News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Minimal Traffic 	
+WZZM - Grand Rapids News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+X22 Report 	Conspiracy-Pseudoscience 	Low 	United States 	Low Credibility 	Website Only 	Medium Traffic 	46
+Xenia Gazette 	Right-Center 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Xinhua News Agency 	Questionable Sources 	Mixed 	China 	Low Credibility 	News Agency 	High Traffic 	90
+Young Americas Foundation (YAF) 	Right 	Mixed 	United States 	Medium Credibility 	Organization/Foundation 	Minimal Traffic 	69
+KAPP - Yakima News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KVEW - Kennewick News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+YaleGlobal Online 	Left-Center 	High 	United States 	High Credibility 	Organization/Foundation 	High Traffic 	73
+Young Americans for Liberty 	Questionable Sources 	Low 	United States 	Low Credibility 	Organization/Foundation 	Minimal Traffic 	
+Yankee Institute for Public Policy 	Right-Center 	High 	United States 	High Credibility 	Organization/Foundation 	Minimal Traffic 	36
+Yavapai News 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	4
+YourContent 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	28
+York Daily Record 	Left-Center 	High 	United States 	High Credibility 	Newspaper 	Medium Traffic 	74
+Yellow Hammer News 	Right 	High 	United States 	High Credibility 	Website Only 	Minimal Traffic 	55
+Yellowhammer Times 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	6
+Yes Magazine 	Left 	High 	United States 	High Credibility 	Magazine 	Medium Traffic 	78
+YLE News 	Least Biased 	Mostly Factual 	Finland 	High Credibility 	TV Station 	High Traffic 	
+YnetNews 	Left-Center 	High 	Israel 	High Credibility 	Website Only 	Medium Traffic 	84
+The Yomiuri Shimbun 	Right-Center 	High 	Japan 	High Credibility 	Newspaper 	High Traffic 	66
+York Dispatch 	Left-Center 	High 	United States 	High Credibility 	Newspaper 	Medium Traffic 	66
+York News-Times 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Aurora Banner 	Left-Center 	High 	Canada 	High Credibility 	Newspaper 	Minimal Traffic 	
+Georgina Advocate 	Left-Center 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Markham Economist & Sun 	Left-Center 	High 	Canada 	High Credibility 	Newspaper 	Minimal Traffic 	
+Newmarket Era 	Left-Center 	High 	Canada 	High Credibility 	Newspaper 	Minimal Traffic 	
+Al Youm Al Sabea 	Questionable Sources 	Mixed 	Egypt 	Low Credibility 	Newspaper 	High Traffic 	
+KGPE - Fresno News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+KSEE - Fresno News 	Least Biased 	High 	United States 	High Credibility 	TV Station 	Medium Traffic 	
+YourNews 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Medium Traffic 	
+NewsNet (YourNewsNet.com) 	Least Biased 	High 	United States 	High Credibility 		No Data 	30
+East County Observer 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Longboat Observer 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Sarasota Observer 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Port Charlotte Sun 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Medium Traffic 	
+Englewood Sun 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+North Port Sun 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Punta Gorda Sun 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+Venice Gondolier Sun 	Least Biased 	High 	United States 	High Credibility 	Newspaper 	Minimal Traffic 	
+National Youth Right Association 	Left-Center 	High 	United States 	High Credibility 	Organization/Foundation 	Minimal Traffic 	51
+Youth Radio 	Left-Center 	High 	United States 	High Credibility 	Organization/Foundation 	Minimal Traffic 	54
+Yuba-Sutter Times 	Questionable Sources 	Mixed 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	0
+Z3 News 	Questionable Sources 	Very Low 	United States 	Low Credibility 	Website Only 	Minimal Traffic 	
+The ZDF (Zweites Deutsches Fernsehen) 	Least Biased 	High 	Germany 	High Credibility 	TV Station 	High Traffic 	95
+ZDNet 	Least Biased 	High 	United States 	High Credibility 	Website Only 	High Traffic 	83
+Zebra Fact Check 	Right-Center 	High 	United States 	High Credibility 	Website Only 	Minimal Traffic 	23
+Die Zeit 	Left-Center 	High 	Germany 	High Credibility 	Newspaper 	High Traffic 	93
+Zerohedge 	Conspiracy-Pseudoscience 	Low 	Bulgaria 	Low Credibility 	Website Only 	High Traffic 	77
+ZME Science 4769
