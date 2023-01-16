@@ -66,4 +66,4 @@ ZDNet 	Least Biased 	High 	United States 	High Credibility 	Website Only 	High T
 Zebra Fact Check 	Right-Center 	High 	United States 	High Credibility 	Website Only 	Minimal Traffic 	23
 Die Zeit 	Left-Center 	High 	Germany 	High Credibility 	Newspaper 	High Traffic 	93
 Zerohedge 	Conspiracy-Pseudoscience 	Low 	Bulgaria 	Low Credibility 	Website Only 	High Traffic 	77
-ZME Science 4769
+ZME Science 4769 sources in total
